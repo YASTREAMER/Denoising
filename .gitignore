@@ -1,4 +1,6 @@
 __pycache__
 try.ipynb
-Train/
-Test/
+Train/low/
+Train/high/
+Test/low/
+Test/predicted/
